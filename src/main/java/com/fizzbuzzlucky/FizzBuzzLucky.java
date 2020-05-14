@@ -10,7 +10,7 @@ public class FizzBuzzLucky {
 	public static int[] printFizzBuzz(int rangeStart, int rangeEnd) {
 		int fizzFactor = 3;
 		int buzzFactor = 5;
-		int luckyDigit = 3;
+
 		int fizzFrequency = 0;
 		int buzzFrequency = 0;
 		int fizzBuzzFrequency = 0;
